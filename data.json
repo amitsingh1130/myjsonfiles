@@ -1,0 +1,95 @@
+{
+    "quizname": "Physics basic mcq type question",
+    "questions": [
+        {
+            "qno": 1,
+            "question": "Which of the following is a unit of force?",
+            "opta": "Joule",
+            "optb": "Newton",
+            "optc": "Watt",
+            "optd": "Pascal",
+            "correctanswer": 2
+        },
+        {
+            "qno": 2,
+            "question": "Which of these is a good conductor of electricity?",
+            "opta": "Wood",
+            "optb": "Rubber",
+            "optc": "Copper",
+            "optd": "Plastic",
+            "correctanswer": 3
+        },
+        {
+            "qno": 3,
+            "question": "What does a thermometer measure?",
+            "opta": "Pressure",
+            "optb": "Temperature",
+            "optc": "Force",
+            "optd": "Energy",
+            "correctanswer": 2
+        },
+        {
+            "qno": 4,
+            "question": "Which energy is stored in a battery?",
+            "opta": "Kinetic energy",
+            "optb": "Electrical energy",
+            "optc": " Potential energy",
+            "optd": " Chemical energy",
+            "correctanswer": 4
+        },
+        {
+            "qno": 5,
+            "question": "What is the formula of speed?",
+            "opta": " Time × Distance",
+            "optb": "Distance / Time",
+            "optc": "Time / Distance",
+            "optd": "Distance × Acceleration",
+            "correctanswer": 2
+        },
+        {
+            "qno": 6,
+            "question": "Which force pulls objects towards Earth?",
+            "opta": "Friction",
+            "optb": "Magnetism",
+            "optc": "Gravity",
+            "optd": "Tension",
+            "correctanswer": 3
+        },
+        {
+            "qno": 7,
+            "question": "When an object is at rest, its speed is:",
+            "opta": "0 m/s",
+            "optb": "1 m/s",
+            "optc": "10 m/s",
+            "optd": "Infinity",
+            "correctanswer": 1
+        },
+        {
+            "qno": 8,
+            "question": "Which mirror is used in a car’s side view mirror?",
+            "opta": "Concave",
+            "optb": "Plane",
+            "optc": "Convex",
+            "optd": "Transparent",
+            "correctanswer": 3
+        },
+        {
+            "qno": 9,
+            "question": "Unit of power?",
+            "opta": "Watt",
+            "optb": "Joule",
+            "optc": "Ampere",
+            "optd": "Newton",
+            "correctanswer": 1
+        },
+        {
+            "qno": 10,
+            "question": "Sound travels fastest in?",
+            "opta": "Air",
+            "optb": "Water",
+            "optc": "Vacuum",
+            "optd": "Vacuum",
+            "correctanswer": 4
+        }
+    ]
+}
