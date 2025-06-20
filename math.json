@@ -1,0 +1,48 @@
+ [
+   {
+     "qno": 1,
+"question": "What is the value of 3^2+4^2?",
+"opa": "12",
+"opb": " 25",
+"opc": "21 ",
+"opd": "20 ",
+"correctanswer": "2 "
+},
+   {
+     "qno": 2,
+"question": " If a = 2, b = 3, what is the value of a^2+2ab+b^2? ",
+"opa": " 25",
+"opb": " 20",
+"opc": " 36",
+"opd": " 49",
+"correctanswer": " 1"
+},
+   {
+     "qno": 3,
+"question": "Solve: 5x-2=3x+6 ",
+"opa": "4 ",
+"opb": "5 ",
+"opc": " 3",
+"opd": "6 ",
+"correctanswer": "1 "
+},
+   {
+     "qno": 4,
+"question": "  What is the square root of 81?",
+"opa": " 8",
+"opb": "5 ",
+"opc": "7 ",
+"opd": "9 ",
+"correctanswer": "4 "
+},
+   {
+     "qno": 5,
+"question": "Simplify: 3(2x+4)−2(x−1) ",
+"opa": " 4x+14 ",
+"opb": " 6x+5",
+"opc": " 19x-x",
+"opd": " 4x-14",
+"correctanswer": " 1"
+}
+ ]
+    
