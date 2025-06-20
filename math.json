@@ -6,7 +6,7 @@
 "opb": " 25",
 "opc": "21 ",
 "opd": "20 ",
-"correctanswer": "2 "
+"correctanswer": "25 "
 },
    {
      "qno": 2,
@@ -15,7 +15,7 @@
 "opb": " 20",
 "opc": " 36",
 "opd": " 49",
-"correctanswer": " 1"
+"correctanswer": " 25"
 },
    {
      "qno": 3,
@@ -24,7 +24,7 @@
 "opb": "5 ",
 "opc": " 3",
 "opd": "6 ",
-"correctanswer": "1 "
+"correctanswer": "4 "
 },
    {
      "qno": 4,
@@ -33,7 +33,7 @@
 "opb": "5 ",
 "opc": "7 ",
 "opd": "9 ",
-"correctanswer": "4 "
+"correctanswer": "9 "
 },
    {
      "qno": 5,
@@ -42,7 +42,7 @@
 "opb": " 6x+5",
 "opc": " 19x-x",
 "opd": " 4x-14",
-"correctanswer": " 1"
+"correctanswer": "4x+14 "
 }
  ]
     
