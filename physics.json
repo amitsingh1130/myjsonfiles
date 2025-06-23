@@ -1,29 +1,23 @@
 [
+ 
 {
-"qno": 1,
-"question": "What is C?",
-"opa": "Programming Language",
-"opb": "A game",
-"opc": "A movie",
-"opd": "None of these",
-"correctanswer": "1"
+  "question": "The Earth is flat. T/F",
+  "correctanswer": false
 },
 {
-"qno": 2,
-"question": "Who developed Python?",
-"opa": "Dennis Ritchie",
-"opb": "Bjarne Stroustrup",
-"opc": "Guido van Rossum",
-"opd": "James Gosling",
-"correctanswer": "3"
+      "question": "C is a programming language? T/F",
+      "correctanswer": true
+    },
+    {
+      "question": "C++ is not an object oriented language.. T/F",
+      "correctanswer": false
+    },
+    {
+      "question": "Python has dictionary.. T/F",
+      "correctanswer": true
+    },
+    {
+      "question": "Hukulganj is the capital of Japan T/F",
+      "correctanswer": false
 },
-{
-"qno": 3,
-"question": "Which tag is used to create a hyperlink in HTML?",
-"opa": "<link>",
-"opb": "<a>",
-"opc": "<href>",
-"opd": "<hyper>",
-"correctanswer": "2"
-}
 ]
