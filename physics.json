@@ -1,20 +1,56 @@
  [
    {
      "qno": 1,
-"question": "What is the value of 3^2+4^2?",
-"opa": "12",
-"opb": " 25",
-"opc": "21 ",
-"opd": "20 ",
-"correctanswer": "2"
+"question": "What is the SI unit of force?",
+"opa": "Newton",
+"opb": " Joule",
+"opc": "Watt ",
+"opd": "Pascal ",
+"correctanswer": "1"
 },
    {
      "qno": 2,
-"question": " If a = 2, b = 3, what is the value of a^2+2ab+b^2? ",
-"opa": " 25",
-"opb": " 20",
-"opc": " 36",
-"opd": " 49",
+"question": "  Which of the following is not a vector quantity?",
+"opa": " Displacement",
+"opb": " Velocity",
+"opc": " Speed",
+"opd": " Force",
+"correctanswer": "3"
+},
+   {
+     "qno": 3,
+"question": "What does a speedometer in a car measure?",
+"opa": "Average speed",
+"opb": "Instantaneous speed",
+"opc": "Velocity ",
+"opd": "Acceleration",
+"correctanswer": "2"
+},
+   {
+     "qno": 4,
+"question": " What is the unit of electric current?",
+"opa": " Volt",
+"opb": " watt",
+"opc": " Ohm",
+"opd": " Ampere",
+"correctanswer": "4"
+},
+  {
+     "qno": 5,
+"question": " In which medium does sound travel the fastest?",
+"opa": " Air",
+"opb": " Water",
+"opc": " Steel",
+"opd": " Vacuum",
+"correctanswer": "3"
+},
+  {
+     "qno": 6,
+"question": " Which of the following is a renewable source of energy?",
+"opa": " Solar Energy",
+"opb": " Natural Gas",
+"opc": " Coal",
+"opd": " Petroleum",
 "correctanswer": "1"
 }
 ]
