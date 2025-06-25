@@ -1,1 +1,47 @@
-
+[
+   {
+     "qno": 1,
+"question": "What is the atomic number of oxygen? ",
+"opa": "6",
+"opb": "7",
+"opc": " 8",
+"opd": "9 ",
+"correctanswer": "3"
+},
+   {
+     "qno": 2,
+"question": "Which of the following is a noble gas? ",
+"opa": " Oxygen",
+"opb": "Nitrogen ",
+"opc": "Neon ",
+"opd": "Hydrogen ",
+"correctanswer": "3"
+},
+ {
+     "qno": 3,
+"question": "What is the chemical formula of water? ",
+"opa": " H₂",
+"opb": "H₂O ",
+"opc": "HO₂ ",
+"opd": " OH",
+"correctanswer": "2"
+},
+ {
+     "qno": 4,
+"question": "Which of these is a compound? ",
+"opa": "Oxygen (O₂) ",
+"opb": "Hydrogen (H₂) ",
+"opc": " Water (H₂O) ",
+"opd": " Nitrogen (N₂) ",
+"correctanswer": "2"
+},
+ {
+     "qno": 5,
+"question": " What is the common name for NaCl?",
+"opa": "Sugar ",
+"opb": "Baking soda ",
+"opc": "Vinegar ",
+"opd": "Salt ",
+"correctanswer": "4"
+}
+]
