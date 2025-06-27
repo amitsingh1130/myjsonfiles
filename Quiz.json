@@ -1,0 +1,17 @@
+[
+    {
+        "quizno": 1,
+        "quizname": "Q1",
+        "url": "https://amitsingh1130.github.io/myjsonfiles/maths.json"
+    },
+    {
+        "quizno": 2,
+        "quizname": "Q2",
+        "url": "https://amitsingh1130.github.io/myjsonfiles/physics.json"
+    },
+  {
+    "quizno": 1,
+    "quizname": "Q3",
+    "url": "https://amitsingh1130.github.io/myjsonfiles/Chemistry.json"
+  }
+]
