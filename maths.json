@@ -43,6 +43,78 @@
 "opc": " 19x-x",
 "opd": " 4x-14",
 "correctanswer": "1"
-}
+},
+  {
+"qno": 6,
+"question": "What is the LCM of 6 and 8?",
+"opa": "12",
+"opb": "24",
+"opc": "18",
+"opd": "48",
+"correctanswer": "2 "
+},
+{
+"qno": 7,
+"question": "What is the sum of 234 and 156?",
+"opa": "390",
+"opb": "380",
+"opc": "400",
+"opd": "370",
+"correctanswer": "390"
+},
+{
+"qno": 8,
+"question": "How many sides does a triangle have?",
+"opa": "2",
+"opb": "3",
+"opc": "4",
+"opd": "5",
+"correctanswer": "2"
+},
+{
+"qno": 9,
+"question": "What is the place of 5 in 3,582?",
+"opa": "500",
+"opb": "50",
+"opc": "5",
+"opd": "5,000",
+"correctanswer": "1"
+},
+{
+"qno": 10,
+"question": "What is the 3/4 of 20?",
+"opa": "10",
+"opb": "12",
+"opc": "14",
+"opd": "15",
+"correctanswer": "4"
+},
+{
+"qno": 11,
+"question": "Which unit is used to measure length?",
+"opa": "Kilogram",
+"opb": "Litre",
+"opc": "Metre",
+"opd": "Degree",
+"correctanswer": "3"
+},
+{
+"qno": 12,
+"question": "What is the value of 15 ÷ 3 + 2 x 4? ",
+"opa": "10",
+"opb": "11",
+"opc": "12",
+"opd": "13",
+"correctanswer": "4"
+},
+{
+"qno": 13,
+"question": "Simplify(4 + 6) x 2",
+"opa": "16",
+"opb": "20",
+"opc": "18",
+"opd": "20",
+"correctanswer": "2"
+} 
  ]
     
