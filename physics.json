@@ -52,5 +52,68 @@
 "opc": " Coal",
 "opd": " Petroleum",
 "correctanswer": "1"
-}
+},
+  {
+        "qno": "7",
+        "question": "Who discovered gravity ?",
+        "a": "Einstein",
+        "b": "Newton",
+        "c": "Galileo",
+        "d": "Tesla",
+        "correctanswer": "2"
+    },
+  {
+        "qno": "8",
+        "question": "What is the unit of work ?",
+        "a": "Newton",
+        "b": "Watt",
+        "c": "Joule",
+        "d": "Volt",
+        "correctanswer": "3"
+    },
+  {
+        "qno": "9",
+        "question": "Sound travels in ?",
+        "a": "Vacuum",
+        "b": "Space",
+        "c": "Air",
+        "d": "None",
+        "correctanswer": "3"
+    },
+  {
+        "qno": "10",
+        "question": "Unit of tempreature ?",
+        "a": "Celsius",
+        "b": "Meter",
+        "c": "Newton",
+        "d": "Joule",
+        "correctanswer": "1"
+    },
+   {
+        "qno": "11",
+        "question": "Unit of time is ?",
+        "a": "Meter",
+        "b": "Second",
+        "c": "Kilogram",
+        "d": "Watt",
+        "correctanswer": "2"
+    },
+   {
+        "qno": "12",
+        "question": "Earth rotates on its ?",
+        "a": "Axis",
+        "b": "Orbit",
+        "c": "Center",
+        "d": "Pole",
+        "correctanswer": "1"
+   },
+   {
+        "qno": "13",
+        "question": "Speed = ?",
+        "a": "Distance X Time",
+        "b": "Distance / Time",
+        "c": "Time / Distance",
+        "d": "None",
+        "correctanswer": "2"
+    }
 ]
