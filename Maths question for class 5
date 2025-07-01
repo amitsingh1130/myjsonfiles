@@ -1,0 +1,92 @@
+[
+   {
+     "qno": 1,
+"question": "What is 456 + 789?",
+"opa": "1145",
+"opb": " 1245",
+"opc": "1345",
+"opd": "1240",
+"correctanswer": "2"
+},
+ {
+     "qno": 2,
+"question": "What is 900-365?",
+"opa": "535",
+"opb": "445",
+"opc": "555",
+"opd": "575",
+"correctanswer": "1"
+},
+ {
+     "qno": 3,
+"question": "Which of the folloing is  a prime number?",
+"opa": "15",
+"opb": "18",
+"opc": "23",
+"opd": "27",
+"correctanswer": "3"
+},
+ {
+     "qno": 4,
+"question": "What is the place value of 7 in 4,752?",
+"opa": "700",
+"opb": "70",
+"opc": "7",
+"opd": "7000",
+"correctanswer": "1"
+},
+ {
+     "qno": 5,
+"question": "What is 0.5 as a fraction?",
+"opa": "1/4",
+"opb": "2/4",
+"opc": "1/2",
+"opd": "3/4",
+"correctanswer": "3"
+},
+ {
+     "qno": 6,
+"question": "Which of the following is an even number?",
+"opa": "11",
+"opb": "17",
+"opc": "25",
+"opd": "22",
+"correctanswer": "4"
+},
+ {
+     "qno": 7,
+"question": "If 1 pencil costs Rs.5, how much will 8 pencils cost?",
+"opa": "Rs.35",
+"opb": "Rs.30",
+"opc": "Rs.45",
+"opd": "Rs.40",
+"correctanswer": "4"
+},
+ {
+     "qno": 8,
+"question": "What is the next multiple of 9 after 54?",
+"opa": "55",
+"opb": "60",
+"opc": "63",
+"opd": "72",
+"correctanswer": "3"
+},
+ {
+     "qno": 9,
+"question": "Which number is divisble by 3?",
+"opa": "45",
+"opb": "22",
+"opc": "19",
+"opd": "46",
+"correctanswer": "1"
+},
+ {
+     "qno": 10,
+"question": "What is largest 4-digit number?",
+"opa": "1000",
+"opb": "9999",
+"opc": "9000",
+"opd": "1999",
+"correctanswer": "2"
+} 
+]
