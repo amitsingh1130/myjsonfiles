@@ -1,8 +1,8 @@
 [
     {
         "quizno": 1,
-        "quizname": "subject.json",
-        "url": "https://amitsingh1130.github.io/myjsonfiles/subject.json"
+        "quizname": "Maths",
+        "url": "https://amitsingh1130.github.io/myjsonfiles/maths.json"
     },
     {
         "quizno": 2,
@@ -13,5 +13,20 @@
     "quizno": 3,
     "quizname": "Chemistry",
     "url": "https://amitsingh1130.github.io/myjsonfiles/Chemistry.json"
+  },
+     {
+    "quizno": 4,
+    "quizname": "Present tese",
+    "url": "https://amitsingh1130.github.io/multiquizjsonfiles/present%20tense.json"
+  },
+     {
+    "quizno": 5,
+    "quizname": "past tense",
+    "url": "https://amitsingh1130.github.io/multiquizjsonfiles/past%20tense.json"
+  },
+     {
+    "quizno": 6,
+    "quizname": "Future tense",
+    "url": "https://amitsingh1130.github.io/multiquizjsonfiles/future%20tense.json"
   }
 ]
