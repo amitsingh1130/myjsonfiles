@@ -28,5 +28,10 @@
     "quizno": 6,
     "quizname": "Future tense",
     "url": "https://amitsingh1130.github.io/multiquizjsonfiles/future%20tense.json"
+  },
+    {
+    "quizno": 7,
+    "quizname": "G.K.",
+    "url": "https://amitsingh1130.github.io/myjsonfiles/news.json"
   }
 ]
