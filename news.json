@@ -1,1 +1,92 @@
-gjl
+[
+  {
+    "qno": 1,
+    "question": "Who won the 2024 U.S. Presidential Election?",
+    "opa": "Joe Biden",
+    "opb": "Donald Trump",
+    "opc": "Kamala Harris",
+    "opd": "Ron DeSantis",
+    "correctanswer": "2"
+  },
+  {
+    "qno": 2,
+    "question": "Which country hosted the 2024 G20 Summit?",
+    "opa": "India",
+    "opb": "Brazil",
+    "opc": "Italy",
+    "opd": "Indonesia",
+    "correctanswer": "2"
+  },
+  {
+    "qno": 3,
+    "question": "Which company became the first to reach a $5 trillion market cap in 2025?",
+    "opa": "Apple",
+    "opb": "Microsoft",
+    "opc": "NVIDIA",
+    "opd": "Amazon",
+    "correctanswer": "3"
+  },
+  {
+    "qno": 4,
+    "question": "Which country launched the world's first AI-regulated national election system in 2025?",
+    "opa": "Japan",
+    "opb": "Estonia",
+    "opc": "South Korea",
+    "opd": "Singapore",
+    "correctanswer": "2"
+  },
+  {
+    "qno": 5,
+    "question": "Where was the EarthTech 2025 climate technology summit held?",
+    "opa": "Berlin",
+    "opb": "New York",
+    "opc": "Dubai",
+    "opd": "Tokyo",
+    "correctanswer": "3"
+  },
+  {
+    "qno": 6,
+    "question": "Which tech company announced a fully AI-driven smartphone in 2025?",
+    "opa": "Apple",
+    "opb": "Samsung",
+    "opc": "Google",
+    "opd": "Tesla",
+    "correctanswer": "4"
+  },
+  {
+    "qno": 7,
+    "question": "Which country won the ICC Men's Cricket World Cup 2023?",
+    "opa": "India",
+    "opb": "Australia",
+    "opc": "England",
+    "opd": "New Zealand",
+    "correctanswer": "2"
+  },
+  {
+    "qno": 8,
+    "question": "In 2025, which organization launched a global AI safety framework?",
+    "opa": "World Health Organization",
+    "opb": "United Nations",
+    "opc": "World Economic Forum",
+    "opd": "OECD",
+    "correctanswer": "2"
+  },
+  {
+    "qno": 9,
+    "question": "Which movie won the Academy Award for Best Picture in 2024?",
+    "opa": "Oppenheimer",
+    "opb": "Barbie",
+    "opc": "Killers of the Flower Moon",
+    "opd": "Poor Things",
+    "correctanswer": "1"
+  },
+  {
+    "qno": 10,
+    "question": "Which country officially joined BRICS in 2024?",
+    "opa": "Saudi Arabia",
+    "opb": "Mexico",
+    "opc": "Japan",
+    "opd": "Turkey",
+    "correctanswer": "1"
+  }
+]
